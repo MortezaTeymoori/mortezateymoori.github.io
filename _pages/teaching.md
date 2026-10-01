@@ -2,32 +2,61 @@
 layout: page
 permalink: /experiences/
 title: Experiences
-description: A summary of most notable experiences that I had during my career.
+description: Research positions, industry experience, funding, and teaching.
 nav: true
 ---
 
-## R&D Engineer at Glakolens A.S. [<img src="/assets/img/glakoLens.jpg" alt="Glakolens Logo" style="height: 27.17px; width:100px;"/>](https://Glakolens.com/)
-**Nov 2019 - Present**
+## Postdoctoral Researcher, University of Freiburg (IMTEK)
+**Aug 2024 – Present** · Microsystems for Biomedical Imaging Laboratory, Freiburg, Germany
 
-I have been working in Glakolens since November 2019. Glakolens is a startup company that produces a smart contact lens for the IOP measurement. My greatest achievement in Glakolens is the development of the contact lens and the fabrication process which is currently used for the contact lens production.
+Photonic integrated circuits, photonics, and MRI. Part of the [Light Coils]({{ '/lightcoils/' | relative_url }}) team.
 
-## Cleanroom Operator at Bogazici University [<img src="/assets/img/LifeSci.jpg" alt="LifeSci Logo" style="height: 57.38px; width:100px;"/>](https://lifesci.boun.edu.tr/en) [<img src="/assets/img/BOUN.png" alt="BOUN Logo" style="height: 57.38px; width:57.38px;"/>](http://www.boun.edu.tr/)
-**June 2018 - May 2019**
-I was an intern in Bogazici University Center for Life Sciences and Technologies. During this period I acted as the cleanroom operator responsible for the maintenance of the current clean room equipment, Lithography and Microfabrication , PVD sputtering, Stent and Catherther braiding, 3D printing. This internship was so valuable for my career as I obtained a very strong background and confidence in microfabrication techniques and MEMS.
+- Developing an optical receive chain for MRI local coils, including optical interrogation, optical power delivery, and optical detuning.
+- Designing a photonic integrated chip as the central optical processing unit of an analog optical link for MRI.
+- Earlier, as a visiting researcher (from Feb 2024): planned and built a dense wavelength-division-multiplexing (DWDM) setup for power and data transfer over optical fibre for dense-array fMRI head coils, and started the lab's photonic integrated circuit work.
+
+**Funding:** START Grant for Early-Career Researchers (2026), University of Freiburg. Principal investigator, *Design of Optical Endoluminal MRI Coils*.
+
+## Ph.D. Researcher, Boğaziçi University [<img src="/assets/img/BOUN.png" alt="Boğaziçi University logo" style="height: 40px; width: 40px;"/>](https://www.bogazici.edu.tr/)
+**2019 – 2024** · Institute of Biomedical Engineering, Istanbul, Turkey
+
+Thesis: *Metamaterials and Their Applications in Biomedical Engineering* (advisor: Prof. Arda Deniz Yalçınkaya). **Necmi Tanyolaç Award** for the best Ph.D. thesis (2025).
+
+- Designed and implemented RF metasurfaces for local field enhancement at 3T and 7T MRI.
+- Designed resonant microwave sensors (split-ring resonators) integrated with paper microfluidics (μPADs) and PDMS microfluidics for dielectric and droplet characterisation.
+- Designed and fabricated high-Q plasmonic THz metasurfaces with Fano and EIT-like resonances.
+- Ran the full microfabrication workflow, from photomask layout to process development, and characterised devices with VNA and THz time-domain spectroscopy (LabVIEW/MATLAB instrument control).
+- Led microfabrication of an MRI-compatible MEMS pressure and temperature sensor on thin GaAs, including fibre-optic integration of an 800 μm × 800 μm chip and the laser-optic setup for characterisation and animal experiments (2022 – 2024).
+
+## R&D Engineer, GlakoLens [<img src="/assets/img/glakoLens.jpg" alt="GlakoLens logo" style="height: 27px; width: 100px;"/>](https://glakolens.com/)
+**2019 – 2024** · Istanbul, Turkey
+
+- Led development of a wearable smart contact lens for intraocular pressure monitoring, from lens and mould design to fabrication of the end product, and took part in the first-in-human clinical pilot studies.
+- Responsible engineer for the company's mechanical and chemical processes for contact lenses and *in-vitro* setups.
+
+## Cleanroom Intern, Boğaziçi University [<img src="/assets/img/LifeSci.jpg" alt="LifeSci logo" style="height: 40px; width: 70px;"/>](https://lifesci.boun.edu.tr/en)
+**2018 – 2019** · Center for Life Sciences and Technologies, Istanbul, Turkey
+
+- Operated core microfabrication processes (lithography, dry and wet etching, physical vapour deposition) and trained less experienced users.
+- Assisted international service engineers during equipment maintenance visits.
+
+## M.Sc. Researcher, Boğaziçi University
+**2016 – 2019** · Institute of Biomedical Engineering, Istanbul, Turkey
+
+- Developed a shape-memory-alloy actuator for microfluidic valves and pumps, combining SLA 3D printing with strained SMA wires.
+- Built a microcontroller driver with impedance-based microvalve characterisation and a LabVIEW application synchronising actuation and data acquisition.
 
 # Teaching
-This is a summary of the courses that I had instructed or assisted.
+
 ## English Language Instructor
-**Dec 2017 - June 2016**
-I have instructued many english language basic and advanced courses and tutored many students for TOEFL and IELTS exams. 
-## Fundamentals of Fluid Mechanics [<img src="/assets/img/UI.png" alt="UI Logo" style="height: 42.85px; width:100px;"/>](https://UI.ac.ir/)
-**Spring 2014**
-I was a TA in University of Isfahan for this course.
-## Industrial Drafting and CAD
-**Fall 2011**
-I was a TA in University of Isfahan for this course.
+**2016 – 2017**
 
-# Tutoring and Freelancing
-I have finished many freelancing jobs over the years.
+Taught basic and advanced English courses and tutored students for TOEFL and IELTS.
 
-<img src="/assets/img/Ansys.jpg" alt="UI Logo" style="height: 90px; width:243.9px;"/><img src="/assets/img/adina.png" alt="UI Logo" style="height: 100px; width:326px;"/><img src="/assets/img/Matlab.png" alt="UI Logo" style="height: 100px; width:177.77px;"/>
+## Teaching Assistant, University of Isfahan [<img src="/assets/img/UI.png" alt="University of Isfahan logo" style="height: 43px; width: 100px;"/>](https://ui.ac.ir/)
+- Fundamentals of Fluid Mechanics (Spring 2014)
+- Industrial Drafting and CAD (Fall 2011)
+
+# Professional Development
+- **Project Management**, 2-day workshop, Graduate Academy (GRACE), University of Freiburg (June 2026).
+- **Storytelling for Impact**, workshop, Graduate Academy (GRACE), University of Freiburg (June 2026).

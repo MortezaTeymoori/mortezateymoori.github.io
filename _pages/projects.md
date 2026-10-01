@@ -3,7 +3,7 @@ layout: page
 title: #projects #just remove the hashtag in front of "projects" to return the title
 permalink: /projects/
 description: A sellection of the projects I have done and showcase of my skills.
-nav: true
+nav: false
 display_categories: [work, fun]
 horizontal: false
 ---
