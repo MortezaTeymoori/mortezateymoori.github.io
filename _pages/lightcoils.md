@@ -25,9 +25,9 @@ Zining Liu<sup>†</sup>, <strong>Morteza Teymoori</strong><sup>†</sup>, Jakob
 
 <h2>Why it matters</h2>
 
-<div class="lc-placeholder">
-  [PLACEHOLDER: 2–4 sentences on the problem. E.g. what conductive cables cost you in dense MRI coil arrays (RF heating and safety, cable traps, cross-talk below 20 dB between neighbouring coax lines, bulk, the practical ~64-channel ceiling) and what replacing them with light enables.]
-</div>
+<p>
+Faster MRI relies on dense receive arrays: more coil elements mean more SNR and higher parallel-imaging acceleration. But every element needs coaxial cables for signal, power and detuning, and in a dense bundle those cables couple to each other. That coupling raises noise correlation between channels, which costs SNR at high acceleration (a higher g-factor), and the cables also add bulk and RF-heating risk. Light Coils replace the cables with optical fibre, which removes cable cross-talk as a source of coupling.
+</p>
 
 <figure class="lc-figure">
   <img src="{{ '/assets/img/lightcoils/fig1-concept.jpg' | relative_url }}" alt="Light Coils concept: optically connected receive-array modules, modular head arrays, and the optical power, data and detuning architecture" data-zoomable>
@@ -72,9 +72,6 @@ Zining Liu<sup>†</sup>, <strong>Morteza Teymoori</strong><sup>†</sup>, Jakob
 
 <h2>How it works</h2>
 
-<div class="lc-placeholder">
-  [PLACEHOLDER: short explanation of the chain, aimed at an MR physicist who is not a photonics person: the MR signal is amplified on the coil and converted to light by a Mach–Zehnder modulator on a C-band carrier; a high-efficiency photovoltaic cell powers the LNA over fibre; a sequence-triggered optical path switches the coil between detuned and active states.]
-</div>
 
 <figure class="lc-figure">
   <img src="{{ '/assets/img/lightcoils/fig3-power.jpg' | relative_url }}" alt="Optical power transmission setup, noise figure and gain versus optical power, sequence timing, and detuning comparison" data-zoomable>
