@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Preprints, peer-reviewed journal articles, and conference contributions.
-paperyears: [2025, 2024, 2023, 2022, 2017, 2016]
+paperyears: [2026, 2025, 2024, 2023, 2022, 2017, 2016]
 Proceedingyears: [2026, 2025, 2024, 2023, 2022, 2019, 2016, 2014, 2012]
 nav: true
 ---
@@ -22,6 +22,19 @@ nav: true
         <div class="links">
           <a href="https://arxiv.org/abs/2607.04211" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           <a href="{{ '/lightcoils/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project page</a>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="row">
+      <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+      <div class="col-sm-8">
+        <div class="title">Optically-powered Low Power Low Noise Amplifiers for MRI</div>
+        <div class="author">Aghabagheri, Reza, Gerlach, Jakob, Liu, Zining, <em>Teymoori, Morteza</em>, Ataman, Çağlar, Bock, Michael, et al.</div>
+        <div class="periodical"><em>arXiv preprint arXiv:2607.10019</em> 2026</div>
+        <div class="links">
+          <a href="https://arxiv.org/abs/2607.10019" class="btn btn-sm z-depth-0" role="button">arXiv</a>
         </div>
       </div>
     </div>

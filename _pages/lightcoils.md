@@ -82,6 +82,8 @@ Faster MRI relies on dense receive arrays: more coil elements mean more SNR and 
 
 <ul class="lc-links">
   <li><strong>Preprint:</strong> Z. Liu<sup>†</sup>, M. Teymoori<sup>†</sup>, J. Gerlach, R. Aghabagheri, H. Helmers, M. Bock, Ç. Ataman, A. C. Özen. <a href="https://arxiv.org/abs/2607.04211"><em>Light Coils: MRI with Fully Optical Data and Power Transmission</em></a>. arXiv:2607.04211 (2026). <a href="https://arxiv.org/bibtex/2607.04211">BibTeX</a></li>
+  <li><strong>Companion preprint:</strong> R. Aghabagheri, J. Gerlach, Z. Liu, M. Teymoori, Ç. Ataman, M. Bock et al. <a href="https://arxiv.org/abs/2607.10019"><em>Optically-powered Low Power Low Noise Amplifiers for MRI</em></a>. arXiv:2607.10019 (2026).</li>
+  <li><strong>Magnetic Resonance in Medicine (2026):</strong> J. Gerlach, R. Aghabagheri, Z. Liu, S. Liu, M. Teymoori, Ç. Ataman, M. Bock et al. <em>Optical Detuning Strategies for Shielded Loop Resonators.</em></li>
   <li><strong>ISMRM 2026:</strong> Z. Liu, M. Teymoori, J. Gerlach, R. Aghabagheri, Ç. Ataman, M. Bock, A. Özen. <em>Multi-channel coil array with optical data transmission using wavelength division multiplexing.</em> Abstract 631-01-007.</li>
   <li><strong>ISMRM 2026:</strong> R. Aghabagheri, J. Gerlach, Z. Liu, M. Teymoori, Ç. Ataman, M. Bock, A. Özen. <em>Light-powered low noise amplifiers for MRI.</em> Abstract 631-01-008.</li>
   <li><strong>ISMRM 2025:</strong> J. Gerlach, Z. Liu, R. Aghabagheri, S. Liu, Ç. Ataman, M. Teymoori, M. Bock et al. <em>Optical detuning strategies for light coil elements.</em></li>
